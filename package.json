@@ -1,0 +1,9 @@
+{
+  "name": "adapt-authoring-langpack-en",
+  "version": "0.0.1",
+  "description": "English language pack for the Adapt authoring tool",
+  "homepage": "https://github.com/adaptlearning/adapt-authoring-langpack-en",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "repository": "github:adapt-security/adapt-authoring-langpack-en"
+}

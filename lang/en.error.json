@@ -1,0 +1,5 @@
+{
+  "NOT_FOUND": "item %{type}~%{id} could not be found",
+  "ENOTEMPTY": "directory is not empty",
+  "UNAUTHORISED": "you are not authorised to perform the requested action %{method} %{url}"
+}

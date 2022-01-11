@@ -1,5 +1,8 @@
 {
-  "NOT_FOUND": "item %{type}~%{id} could not be found",
-  "ENOTEMPTY": "directory is not empty",
-  "UNAUTHORISED": "you are not authorised to perform the requested action %{method} %{url}"
+  "NOT_FOUND": "Item %{type}~%{id} could not be found",
+  "ENOENT": "File or directory could not be found",
+  "ENOTEMPTY": "Directory is not empty",
+  "UNAUTHORISED": "You are not authorised to perform the requested action %{method} %{url}",
+  "UNAUTHENTICATED": "You are not authenticated with the system",
+  "VALIDATION_FAILED": "Incorrect data provided: %{errors}"
 }

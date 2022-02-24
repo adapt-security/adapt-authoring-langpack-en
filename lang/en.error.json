@@ -2,6 +2,7 @@
   "NOT_FOUND": "Item %{type}~%{id} could not be found",
   "ENOENT": "File or directory could not be found",
   "ENOTEMPTY": "Directory is not empty",
+  "SERVER_ERROR": "An unknown server error has occurred",
   "UNAUTHORISED": "You are not authorised to perform the requested action %{method} %{url}",
   "UNAUTHENTICATED": "You are not authenticated with the system",
   "VALIDATION_FAILED": "Incorrect data provided: %{errors}"

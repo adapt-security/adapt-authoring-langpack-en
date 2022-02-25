@@ -1,4 +1,7 @@
 {
+  "ENDPOINT_NOT_FOUND": "Endpoint %{endpoint} does not exist",
+  "MISSING_AUTH_HEADER": "Authorization headers are missing from request",
+  "MONGO_ERROR": "A MongoDB error occurred while attempting to %{action} %{collectionName}",
   "NOT_FOUND": "Item %{type}~%{id} could not be found",
   "ENOENT": "File or directory could not be found",
   "ENOTEMPTY": "Directory is not empty",

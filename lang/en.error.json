@@ -1,5 +1,6 @@
 {
   "ENDPOINT_NOT_FOUND": "Endpoint %{endpoint} does not exist",
+  "INVALID_COURSE": "Course zip is not valid",
   "MISSING_AUTH_HEADER": "Authorization headers are missing from request",
   "MONGO_ERROR": "A MongoDB error occurred while attempting to %{action} %{collectionName}",
   "NOT_FOUND": "Item %{type}~%{id} could not be found",

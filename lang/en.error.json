@@ -8,5 +8,6 @@
   "SERVER_ERROR": "An unknown server error has occurred",
   "UNAUTHORISED": "You are not authorised to perform the requested action %{method} %{url}",
   "UNAUTHENTICATED": "You are not authenticated with the system",
+  "UNEXPECTED_FILE_TYPES": "Received unexpected filetypes: %{invalidFiles}",
   "VALIDATION_FAILED": "Incorrect data provided: %{errors}"
 }

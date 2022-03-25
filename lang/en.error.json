@@ -1,5 +1,7 @@
 {
+  "CONTENTPLUGIN_INSTALL_FAILED": "Installation of plugins failed, %{errors}",
   "ENDPOINT_NOT_FOUND": "Endpoint %{endpoint} does not exist",
+  "IMPORT_PLUGINS_FAILED": "Import of framework plugins failed %{errors}",
   "INVALID_COURSE": "Course zip is not valid",
   "MISSING_AUTH_HEADER": "Authorization headers are missing from request",
   "MONGO_ERROR": "A MongoDB error occurred while attempting to %{action} %{collectionName}",

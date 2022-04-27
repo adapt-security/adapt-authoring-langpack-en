@@ -9,6 +9,7 @@
   "NOT_FOUND": "Item %{type}~%{id} could not be found",
   "ENOENT": "File or directory could not be found",
   "ENOTEMPTY": "Directory is not empty",
+  "RATE_LIMIT_EXCEEDED": "Cannot access %{url}, API request rate limit has been exceeded. Limit will be reset at %{limit}",
   "SERVER_ERROR": "An unknown server error has occurred",
   "UNAUTHORISED": "You are not authorised to perform the requested action %{method} %{url}",
   "UNAUTHENTICATED": "You are not authenticated with the system",

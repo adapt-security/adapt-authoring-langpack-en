@@ -6,6 +6,7 @@
   "INVALID_COURSE": "Course zip is not valid",
   "MISSING_AUTH_HEADER": "Authorization headers are missing from request",
   "MONGO_ERROR": "A MongoDB error occurred while attempting to %{action} %{collectionName}",
+  "NO_NET_CONN": "There is no network connection",
   "NOT_FOUND": "Item %{type}~%{id} could not be found",
   "ENOENT": "File or directory could not be found",
   "ENOTEMPTY": "Directory is not empty",

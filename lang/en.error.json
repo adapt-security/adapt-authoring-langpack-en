@@ -1,4 +1,5 @@
 {
+  "API_PASSWORD_CHANGE_FORBIDDEN": "User passwords cannot be updated using the users API",
   "CONTENTPLUGIN_INSTALL_FAILED": "Installation of plugins failed, %{errors}",
   "ENDPOINT_NOT_FOUND": "Endpoint %{endpoint} does not exist",
   "IMPORT_CONTENT_FAILED": "Import of framework content failed, %{errors}",

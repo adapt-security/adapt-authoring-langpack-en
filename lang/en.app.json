@@ -327,6 +327,7 @@
   "productname": "Adapt authoring tool",
   "projectcontentbody": "This is a text component",
   "projectsettings": "Project settings",
+  "reauthrequiredonnewpass": "You will be required to log in again if you change your password",
   "recent": "Recent",
   "refresh": "Refresh",
   "rememberme": "Keep me logged in",

@@ -398,7 +398,7 @@
   "unrecognisedplugin": "Unrecognised plugin - a plugin should have a bower.json file.",
   "unrecognisedpluginforpackage": "Unrecognised plugin type for package %{package}.",
   "updatefailed": "Failed to update!",
-  "updateplugin": "Click to update",
+  "updateplugin": "Click to update to",
   "updating": "Updating...",
   "upload": "Upload",
   "uploadedbyuser": "Uploaded By User",

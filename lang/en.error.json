@@ -16,5 +16,6 @@
   "UNAUTHORISED": "You are not authorised to perform the requested action %{method} %{url}",
   "UNAUTHENTICATED": "You are not authenticated with the system",
   "UNEXPECTED_FILE_TYPES": "Received unexpected filetypes: %{invalidFiles}",
+  "USER_REG_FAILED": "Failed to register user",
   "VALIDATION_FAILED": "Incorrect data provided: %{errors}"
 }

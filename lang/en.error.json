@@ -18,5 +18,6 @@
   "UNAUTHENTICATED": "You are not authenticated with the system",
   "UNEXPECTED_FILE_TYPES": "Received unexpected filetypes: %{invalidFiles}",
   "USER_REG_FAILED": "Failed to register user",
+  "INVALID_ASSET_URL": "Invalid asset URL provided %{url}",
   "VALIDATION_FAILED": "Incorrect data provided: %{errors}"
 }

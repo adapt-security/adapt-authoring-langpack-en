@@ -1,6 +1,7 @@
 {
   "API_PASSWORD_CHANGE_FORBIDDEN": "User passwords cannot be updated using the users API",
   "AUTH_TOKEN_EXPIRED": "Authentication has expired",
+  "CLI_BUILD_FAILED": "Failed while executing '%{cmd}'\n\n%{stderr}",
   "CONTENTPLUGIN_INSTALL_FAILED": "Installation of plugins failed, %{errors}",
   "CONTENTPLUGIN_INVALID_ZIP": "Invalid zip file",
   "ENDPOINT_NOT_FOUND": "Endpoint %{endpoint} does not exist",

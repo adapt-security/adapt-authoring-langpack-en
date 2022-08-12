@@ -3,6 +3,7 @@
   "AUTH_TOKEN_EXPIRED": "Authentication has expired",
   "CLI_BUILD_FAILED": "Failed while executing '%{cmd}'\n\n%{stderr}",
   "CONTENTPLUGIN_ATTR_MISSING": "Plugin '%{name}' is missing targetAttribute value",
+  "CONTENTPLUGIN_CLI_INSTALL_FAILED": "Installation of plugin '%{name}' via adapt-cli failed",
   "CONTENTPLUGIN_INSTALL_FAILED": "Installation of plugins failed, %{errors}",
   "CONTENTPLUGIN_INVALID_ZIP": "Invalid zip file",
   "ENDPOINT_NOT_FOUND": "Endpoint %{endpoint} does not exist",

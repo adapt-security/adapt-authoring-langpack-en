@@ -172,6 +172,7 @@
   "emailinvitebody": "A new account has been set up for you at %{rootUrl}. Please <a href='%{resetUrl}' target='_blank'>click here</a> to reset your password.<br><br>If you did not request this account, please contact %{inviter} for more information.",
   "emailinvitesubject": "Welcome to Adapt",
   "emaillogotext": "ADAPT",
+  "emptycontentobject": "%{type} %{title} is missing children",
   "enabled": "Enabled",
   "enabledextensions": "Enabled extensions",
   "erroraddingarticle": "Something went wrong while adding article.<br/>Please try again.",

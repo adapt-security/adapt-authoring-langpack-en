@@ -1,5 +1,4 @@
 {
-  "API_PASSWORD_CHANGE_FORBIDDEN": "User passwords cannot be updated using the users API",
   "AUTH_TOKEN_EXPIRED": "Authentication has expired",
   "CLI_BUILD_FAILED": "Failed while executing '%{cmd}'\n\n%{stderr}",
   "CONTENTPLUGIN_ATTR_MISSING": "Plugin '%{name}' is missing targetAttribute value",

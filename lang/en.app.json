@@ -195,7 +195,7 @@
   "errormenueditorbody": "An error occurred during the save",
   "errornomenuselected": "No menu has been selected.",
   "errornothemeselected": "No theme has been selected.",
-  "errorpagenoaccess": "Sorry, you don't have the correct permissions to view this page. Click the button below to go to the dashboard.",
+  "errorpagenoaccess": "Sorry, you don't have the correct permissions to view this page.",
   "errorpagenoaccesstitle": "Access Denied",
   "errorpaste": "An error occurred during paste. Please try again.",
   "errorpermission": "You are not permitted to do that.",

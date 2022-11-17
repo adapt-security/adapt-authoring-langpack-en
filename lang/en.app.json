@@ -307,7 +307,7 @@
   "page": "page |||| pages",
   "password": "Password",
   "passwordindicatormedium": "Make your password stronger with more capital letters, more numbers and special characters",
-  "passwordindicatorstrong": "Strong password!",
+  "passwordindicatorstrong": "Great, that's a strong password!",
   "passwordindicatorweak": "Weak – try using numbers and capital letters",
   "passwordnomatcherror": "Passwords do not match",
   "passwordtip": "Enter a new password below. The most secure passwords have a mix of numbers, letters (including capitals) and other characters.",

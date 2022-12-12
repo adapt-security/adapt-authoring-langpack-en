@@ -437,5 +437,8 @@
   "view": "View",
   "viewtags": "View tags",
   "visitpluginhomepage": "Visit plugin homepage",
+  "welcometitle": "Welcome to Adapt",
+  "welcomelimitedtitle": "This user account has limited access.",
+  "welcomelimitedmessage": "If you're not expecting this page, please contact an administrator to set the correct user privileges for your account.",
   "warningdefaulttitle": "Warning"
 }

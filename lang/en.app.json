@@ -16,9 +16,9 @@
   "addtenant": "Add Tenant",
   "addtoleft": "Add to left",
   "addtoright": "Add to right",
+  "adduserfail": "Couldn't add new user",
   "adduserformtitle": "New user account details",
   "addusertitle": "Add new user",
-  "adduserfail": "Couldn't add new user",
   "alreadyloggedin": "Looks like you are already logged in! Click the button below to go to your dashboard.",
   "anadmin": "an administrator",
   "apply": "Apply",
@@ -53,6 +53,7 @@
   "changepassword": "Change password",
   "changepasswordtext": "Password updated for<br/><b>%{email}</b>",
   "checkforupdates": "Check for updates",
+  "checkimport": "Check import",
   "checking": "Checking...",
   "children": "children",
   "choosethemedesc": "Select the base theme for your course and apply any saved 'preset' styles using the two dropdowns below.<br/><br/><b>IMPORTANT:</b> Changing the options here will replace any unsaved selections you've made in the form below; make sure there's nothing you want to keep!",
@@ -437,8 +438,9 @@
   "view": "View",
   "viewtags": "View tags",
   "visitpluginhomepage": "Visit plugin homepage",
-  "welcometitle": "Welcome to Adapt",
-  "welcomelimitedtitle": "This user account has limited access.",
+  "warningdefaulttitle": "Warning",
   "welcomelimitedmessage": "If you're not expecting this page, please contact an administrator to set the correct user privileges for your account.",
-  "warningdefaulttitle": "Warning"
+  "welcomelimitedtitle": "This user account has limited access.",
+  "welcometitle": "Welcome to Adapt",
+  "working": "Working..."
 }

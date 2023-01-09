@@ -318,7 +318,7 @@
   "paste": "Paste",
   "pleaseaddfile": "Please choose a file to upload",
   "pleaseentervalue": "Please enter a value here",
-  "pleaseselectcomponent": "Please select a component",
+  "pleaseselectcomponent": "Select a component",
   "pluginamberkey": "The version of this plugin included in this import is either not compatible with this authoring tool, or a newer version is already installed. The imported course will use the existing version.",
   "pluginamberlabel": "Use installed version",
   "pluginfile": "Plugin File",

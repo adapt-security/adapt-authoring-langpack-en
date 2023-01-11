@@ -299,6 +299,7 @@
   "noassetsfound": "No assets found",
   "noextensionsavailable": "No extensions can be enabled at this time.",
   "noextensionsenabled": "There are currently no extensions enabled.",
+  "nomatches": "No matches found",
   "none": "None",
   "noplugintypes": "No plugin types to display",
   "nopresets": "No preset",

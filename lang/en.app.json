@@ -429,6 +429,7 @@
   "uploadpluginerror": "Plugin upload failed",
   "uploadpluginsuccess": "The plugin was uploaded successfully!",
   "uploadsizeerror": "File size limit exceeded. Expected no more than %{max}, received %{size}.",
+  "updateavailable": "Update available",
   "uptodate": "Up to date!",
   "usermanagement": "User Management",
   "usermanagementtitle": "Manage System Users",

@@ -310,6 +310,7 @@
   "onewaytrip": "This is a one-way trip. Continue?",
   "options": "Options",
   "page": "page |||| pages",
+  "pagesize": "Page size",
   "password": "Password",
   "passwordindicatormedium": "Make your password stronger with more capital letters, more numbers and special characters",
   "passwordindicatorstrong": "Great, that's a strong password!",

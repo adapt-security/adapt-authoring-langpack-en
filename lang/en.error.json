@@ -37,7 +37,7 @@
   "UNAUTHENTICATED": "You are not logged in",
   "UNAUTHORISED": "You are not authorised to perform the requested action ${method} ${url}",
   "UNEXPECTED_FILE_TYPES": "Received unexpected filetypes: ${invalidFiles}",
-  "UNKNOWN_SCHEMA_NAME": "Couldn't determine schema name",
+  "UNKNOWN_SCHEMA_NAME": "Couldn't determine schema name for ${_id} (${_type} ${_component})",
   "USER_REG_FAILED": "Failed to register user",
   "VALIDATION_FAILED": "Incorrect data provided: ${errors}"
 }

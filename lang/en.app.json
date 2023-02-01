@@ -83,7 +83,7 @@
   "coursecannotbeimported": "Course cannot be imported",
   "createdBy": "author",
   "dashboard": "Dashboard",
-  "debuginfo": "<details><summary>Debug information</summary><textarea readonly rows='5'>${message}</textarea></details>",
+  "debuginfo": "View debug information",
   "delete": "Delete",
   "deletecourses": "Delete all courses",
   "deleteextension": "Delete extension",

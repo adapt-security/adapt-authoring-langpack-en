@@ -201,6 +201,7 @@
   "maxfileuploadsize": "Maximum upload file size: ${size}.",
   "menu": "menu",
   "menupicker": "Menu picker",
+  "menupickertitle": "Select a menu for your course",
   "menus": "Menus",
   "myprojects": "My courses",
   "name": "Name",

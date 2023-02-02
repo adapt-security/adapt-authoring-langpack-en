@@ -16,6 +16,7 @@
   "IMPORT_PLUGINS_FAILED": "Import of framework plugins failed, ${errors}",
   "INVALID_ASSET_URL": "Invalid asset URL provided ${url}",
   "INVALID_COURSE": "Course zip is not valid",
+  "INVALID_LOGIN_DETAILS": "Provided login details are invalid",
   "INVALID_PARAMS": "Invalid parameters sent to API",
   "INVALID_PASSWORD_LENGTH": "Must be at least ${length} characters",
   "INVALID_PASSWORD_LOWERCASE": "Must contain a lower-case character",

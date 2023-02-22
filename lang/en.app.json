@@ -191,7 +191,7 @@
   "invalidempty": "You need to write something!",
   "invalidusernameoremail": "Invalid email address",
   "invalidusernameorpassword": "Invalid email address or password",
-  "invitepasswordhtml": "<h2>You're almost ready</h2><p>Someone has set you up with a new Adapt account. Please use the link below to create a new password and finish setting up your account:</p><p><a href='${url}'>Set your Adapt password</a></p>",
+  "invitepasswordhtml": "<h2>You're almost ready</h2><p>Someone has set you up with a new Adapt account. Please use the link below to create a new password and finish setting up your account:</p><p><a href='{{url}}'>Set your Adapt password</a></p>",
   "invitepasswordsubject": "Welcome to Adapt ",
   "invitepasswordtext": "A new Adapt authoring tool account has been created for you. Please visit the following link in your web browser to finish setting up your account:\n${url}",
   "invitesent": "Invitation email sent successfully",

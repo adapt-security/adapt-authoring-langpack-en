@@ -14,6 +14,7 @@
   "FILE_EXCEEDS_MAX_SIZE": "Uploaded file is too large. Files must be below smaller than ${maxSize}.",
   "GENERATE_THUMB_FAIL": "Failed to generate thumbnail, ${error}",
   "IMPORT_CONTENT_FAILED": "Import of framework content failed, ${errors}",
+  "IMPORT_FAILED": "Import of framework course failed, ${error}",
   "IMPORT_PLUGINS_FAILED": "Import of framework plugins failed, ${errors}",
   "INVALID_ASSET_URL": "Invalid asset URL provided ${url}",
   "INVALID_COURSE": "Course zip is not valid",

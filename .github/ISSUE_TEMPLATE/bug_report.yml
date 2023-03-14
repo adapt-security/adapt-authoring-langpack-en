@@ -1,12 +1,12 @@
-name: Bug Report
-description: Report a missing language string
+name: Report a missing language string
+description: If you've noticed a missing english language string, you can report it here
 labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: textarea
+  - type: input
     id: description
     attributes:
       label: Language string key

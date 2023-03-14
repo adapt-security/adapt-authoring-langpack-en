@@ -1,6 +1,6 @@
 name: Report a missing language string
 description: If you've noticed a missing english language string, you can report it here
-title: "Missing en language string for: "
+title: Missing en language string
 labels: ["bug"]
 body:
   - type: markdown

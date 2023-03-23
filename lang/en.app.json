@@ -167,6 +167,7 @@
   "hidetags": "Hide tags",
   "import.plugins.status.NO_CHANGE": "No change",
   "import.plugins.status.UPDATED": "Will be updated",
+  "import.status.ASSETS_IMPORTED_SUCCESSFULLY": "All assets can be imported",
   "import.status.MANAGED_PLUGIN_UPDATE_DISABLED": "Plugins managed by the authoring tool cannot be updated",
   "import.status.MISSING_PLUGINS": "Missing plugins",
   "importassetfoldersinstruction": "Enter the names of folders that contain assets. If there are multiple folders enter a comma seperated list. Automatically checks for the following folders if no value is entered: assets, images, video, audio.",

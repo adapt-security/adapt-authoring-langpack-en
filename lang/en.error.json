@@ -9,7 +9,7 @@
   "CONTENTPLUGIN_INSTALL_FAILED": "Installation of plugins failed, ${errors}",
   "CONTENTPLUGIN_INVALID_ZIP": "Invalid zip file",
   "DUPL_USER": "A user already exists with the email ${email}",
-  "ENDPOINT_NOT_FOUND": "Endpoint ${endpoint} does not exist",
+  "ENDPOINT_NOT_FOUND": "Endpoint ${method} ${endpoint} does not exist",
   "ENOENT": "File or directory could not be found",
   "ENOTEMPTY": "Directory is not empty",
   "FILE_EXCEEDS_MAX_SIZE": "Uploaded file is too large. Files must be smaller than ${maxSize}.",

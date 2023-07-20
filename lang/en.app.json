@@ -188,6 +188,8 @@
   "forgotpasswordtext": "We heard you were having trouble getting into your Adapt account.\n\nPlease visit the following link in your web browser to reset your password:\n{{url}}",
   "formbuilderror": "An error occurred building form",
   "frameworkimporttitle": "Import framework source",
+  "frameworkupdateavailable": "Adapt framework v${version} update is available!",
+  "frameworkupdatesuccess": "`Successfully updated from v${from} to v${to}`",
   "getnewplugins": "Get new plugins",
   "gotodashboard": "Go to Dashboard",
   "grid": "Grid",

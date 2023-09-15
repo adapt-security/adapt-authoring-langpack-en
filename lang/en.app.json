@@ -202,6 +202,7 @@
   "import.status.MANAGED_PLUGIN_UPDATE_DISABLED": "Plugins which are managed by the authoring tool cannot be updated via import",
   "import.status.NO_CHANGE": "No change",
   "import.status.OLDER": "Import version older than server",
+  "import.status.TAGS_IMPORTED": "Tags to be imported",
   "import.status.UPDATE_BLOCKED": "Update to managed plugin blocked",
   "import.status.UPDATED": "Plugin will be updated",
   "importassetfoldersinstruction": "Enter the names of folders that contain assets. If there are multiple folders enter a comma seperated list. Automatically checks for the following folders if no value is entered: assets, images, video, audio.",

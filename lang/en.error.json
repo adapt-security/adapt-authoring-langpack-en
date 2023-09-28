@@ -21,6 +21,7 @@
   "GENERATE_THUMB_FAIL": "Failed to generate thumbnail, ${error}",
   "INVALID_ASSET_URL": "Invalid asset URL provided ${url}",
   "INVALID_LOGIN_DETAILS": "Provided login details are invalid",
+  "INVALID_METHOD": "HTTP method ${method} not supported by API endpoint ${endpoint}",
   "INVALID_PARAMS": "Invalid parameters sent to API",
   "INVALID_PASSWORD": "Password failed validation. ${errors}",
   "INVALID_PASSWORD_LENGTH": "Must be at least ${length} characters",

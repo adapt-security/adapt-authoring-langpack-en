@@ -19,6 +19,7 @@
   "FW_IMPORT_INVALID_COURSE": "Course zip is not valid",
   "FW_IMPORT_PLUGINS_FAILED": "Import of framework plugins failed, ${errors}",
   "GENERATE_THUMB_FAIL": "Failed to generate thumbnail, ${error}",
+  "INCORRECT_PASSWORD": "Incorrect password",
   "INVALID_ASSET_URL": "Invalid asset URL provided ${url}",
   "INVALID_LOGIN_DETAILS": "Provided login details are invalid",
   "INVALID_METHOD": "HTTP method ${method} not supported by API endpoint ${endpoint}",

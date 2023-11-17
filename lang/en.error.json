@@ -43,5 +43,17 @@
   "UNEXPECTED_FILE_TYPES": "Received unexpected filetypes: ${invalidFiles}",
   "UNKNOWN_SCHEMA_NAME": "Couldn't determine schema name for ${_id} (${_type} ${_component})",
   "USER_REG_FAILED": "Failed to register user, ${error}",
-  "VALIDATION_FAILED": "Incorrect data provided: ${errors}"
+  "VALIDATION_FAILED": "Incorrect data provided: ${errors}",
+  "FRIENDLY_ID_MISSING": "The following items do not have Friendly IDs (_friendlyId) ${list}",
+  "FRIENDLY_ID_DUPLICATE": "The following Friendly IDs are duplicated and must be fixed manually. ${list}",
+  "PEER_STRUCTURE": "{\"title\":\"Peer structure error\", \"text\":\"Important: please copy the following information and use it to fix the issues in your course(s) before continuing.\", \"data\":${data}}",
+  "LANG_MISSING": "{\"title\":\"Missing language properties\", \"text\":\"Important: please copy the following information and use it to fix the issues in your course(s) before continuing.\", \"data\":${data}}",
+  "COURSE_DATA": "{\"title\":\"Course data error\", \"text\":\"Important: please copy the following information and use it to fix the issues in your course(s) before continuing.\", \"data\":${data}}",
+  "LANGUAGE_DUPLICATE": "Language [${_lang}] already exists",
+  "LANGUAGE_REMOVE_DEFAULT": "You cannot remove the default language.",
+  "LANGUAGE_ALREADY_DEFAULT": "${_lang} is already the default language.",
+  "LANGUAGE_INVALID_DEFAULT": "The language does not exist in the course.",
+  "CUT_ILLEGAL": "You cannot cut from one language and paste into another within the same course",
+  "CONCURRENT_EDIT": "This content is being updated. Please try again in a moment.",
+  "USER_INPUT_FRIENDLY_ID_DUPLICATE": "This ID is already in use by the course. Please choose a unique ID."
 }

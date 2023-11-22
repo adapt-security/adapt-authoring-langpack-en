@@ -198,6 +198,7 @@
   "invitesent": "Invitation email sent successfully",
   "inviteuser": "Invite",
   "items": "${smart_count} item |||| ${smart_count} items",
+  "languageconfirmsetdefault": "Are you sure you want to change the default language?",
   "lastaccess": "Last access",
   "lastname": "Last name",
   "lastupdated": "Last updated",

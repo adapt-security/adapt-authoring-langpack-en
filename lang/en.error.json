@@ -46,6 +46,7 @@
   "VALIDATION_FAILED": "Incorrect data provided: ${errors}",
   "FRIENDLY_ID_MISSING": "The following items do not have Friendly IDs (_friendlyId) ${list}",
   "FRIENDLY_ID_DUPLICATE": "The following Friendly IDs are duplicated and must be fixed manually. ${list}",
+  "PARENT_ID_MISSING": "The following items do not have parent IDs (_parentId) ${list}",
   "PEER_STRUCTURE": "{\"title\":\"Peer structure error\", \"text\":\"Important: please copy the following information and use it to fix the issues in your course(s) before continuing.\", \"data\":${data}}",
   "LANG_MISSING": "{\"title\":\"Missing language properties\", \"text\":\"Important: please copy the following information and use it to fix the issues in your course(s) before continuing.\", \"data\":${data}}",
   "COURSE_DATA": "{\"title\":\"Course data error\", \"text\":\"Important: please copy the following information and use it to fix the issues in your course(s) before continuing.\", \"data\":${data}}",

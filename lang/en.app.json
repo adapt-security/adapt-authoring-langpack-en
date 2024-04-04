@@ -186,6 +186,8 @@
   "importframeworkinstruction": "Select a framework zip for import. Tags will be added to the course and all new assets.",
   "importlastupdatedtitle": "Notice",
   "importlastupdated": "Please note that the course to be updated was last modified by ${user} at ${time}",
+  "importwaittitle": "Importing course",
+  "importwaitbody": "Please wait, this can take several minutes.",
   "infodefaulttitle": "Information",
   "invalidempty": "You need to write something!",
   "invalidlocale": "Invalid locale",

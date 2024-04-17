@@ -56,5 +56,6 @@
   "LANGUAGE_INVALID_DEFAULT": "The language does not exist in the course.",
   "CUT_ILLEGAL": "You cannot cut from one language and paste into another within the same course",
   "CONCURRENT_EDIT": "This content is being updated. Please try again in a moment.",
-  "USER_INPUT_FRIENDLY_ID_DUPLICATE": "This ID is already in use by the course. Please choose a unique ID."
+  "USER_INPUT_FRIENDLY_ID_DUPLICATE": "This ID is already in use by the course. Please choose a unique ID.",
+  "USER_INPUT_FRIENDLY_ID_EMPTY": "The ID cannot be empty."
 }

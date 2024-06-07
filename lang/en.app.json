@@ -231,6 +231,7 @@
   "loading": "Loading",
   "lockstatus": "Lock status",
   "loggedinas": "Logged in as",
+  "loggedout": "You have been logged out",
   "login": "Log in",
   "logout": "Log out",
   "manageextensions": "Manage extensions",

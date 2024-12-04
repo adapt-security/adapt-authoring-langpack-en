@@ -61,7 +61,7 @@
   "configurationsettings": "Configuration",
   "confirmdefaulttitle": "Are you sure?",
   "confirmdefaultyes": "Yes, I'm sure",
-  "confirmdelete": "Are you sure you want to remove this ${type}",
+  "confirmdelete": "Are you sure you want to remove this?",
   "confirmdeleteextension": "<b>IMPORTANT</b>: This will remove any configuration that may have been made to properties of this extension. Are you sure you want to remove this extension?",
   "confirmdeleteplugin": "Are you sure you want to delete ${plugin}?",
   "confirmdeleteproject": "Are you sure you want to delete this course?",

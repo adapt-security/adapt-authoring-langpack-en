@@ -1,7 +1,8 @@
 {
   "ACCOUNT_LOCKED_PERM": "Your account has been permanently locked, please contact an administrator for assistance.",
   "ACCOUNT_LOCKED_TEMP": "Your account has been temporarily locked, please wait and try again shortly.",
-  "AUTH_TOKEN_EXPIRED": "Authentication has expired",
+  "AUTH_TOKEN_EXPIRED": "Authentication token has expired",
+  "AUTH_TOKEN_INVALID": "Authentication token is not valid",
   "CLI_BUILD_FAILED": "Failed while executing '${cmd}'\n\n${stderr}",
   "CONTENTPLUGIN_ALREADY_EXISTS": "Plugin '${name}' already exists (v${version})",
   "CONTENTPLUGIN_ATTR_MISSING": "Plugin '${name}' is missing targetAttribute value",

@@ -36,6 +36,7 @@
   "MAIL_NOT_ENABLED": "Email functionality has not been enabled",
   "MAIL_SEND_FAILED": "Failed to send email to ${email}",
   "MISSING_AUTH_HEADER": "Authorization headers are missing from request",
+  "MISSING_SCHEMA": "Schema ${schema} is not registered",
   "MODIFY_PROTECTED_ATTR": "Attempted to modify protected '${attribute}' attribute",
   "MONGO_ERROR": "A MongoDB error occurred while attempting to ${action} ${collectionName}",
   "MONGO_DUPL_INDEX": "A document already exists with this key",

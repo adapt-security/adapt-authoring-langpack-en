@@ -202,6 +202,7 @@
   "import.status.ASSETS_IMPORTED_SUCCESSFULLY": "All assets can be imported",
   "import.status.INSTALL_PLUGIN": "Plugin will be installed",
   "import.status.INSTALLED": "Plugin will be installed",
+  "import.status.INSTALLED": "Plugin version is invalid",
   "import.status.MANAGED_PLUGIN_UPDATE_DISABLED": "Plugins which are managed by the authoring tool cannot be updated via import",
   "import.status.NO_CHANGE": "No change",
   "import.status.OLDER": "Import version older than server",

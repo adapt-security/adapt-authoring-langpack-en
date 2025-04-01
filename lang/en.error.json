@@ -19,6 +19,7 @@
   "FW_CLI_BUILD_FAILED": "Failed while executing '${cmd}'\n\n${raw}\n\n${stderr}\n\n${source}",
   "FW_IMPORT_CONTENT_FAILED": "Import of framework content failed, ${errors}",
   "FW_IMPORT_FAILED": "Import of framework course failed, ${error}",
+  "FW_IMPORT_INCOMPAT": "Import framework version (${import}) is incompatible with the installed version (${installed}), and migrations are disabled.",
   "FW_IMPORT_INVALID_COURSE": "Course zip is not valid",
   "FW_IMPORT_PLUGINS_FAILED": "Import of framework plugins failed, ${errors}",
   "FW_IMPORT_UNEXPECTED_STRUCTURE": "Input course data could not be parsed into a valid course structure. Please check the imported course structure for errors.",

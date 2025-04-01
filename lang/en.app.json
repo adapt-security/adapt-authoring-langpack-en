@@ -200,6 +200,7 @@
   "help": "Help",
   "hidetags": "Hide tags",
   "import.status.ASSETS_IMPORTED_SUCCESSFULLY": "All assets can be imported",
+  "import.status.CONTENT_IMPORTED": "All content can be imported",
   "import.status.INSTALL_PLUGIN": "Plugin will be installed",
   "import.status.INSTALLED": "Plugin will be installed",
   "import.status.INVALID": "Import version is invalid",

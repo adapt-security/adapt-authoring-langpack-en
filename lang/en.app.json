@@ -207,7 +207,7 @@
   "import.status.INVALID_PLUGIN_VERSION": "Version number of the import plugin is invalid. Existing version will be used.",
   "import.status.MANAGED_PLUGIN_UPDATE_DISABLED": "Plugins which are managed by the authoring tool cannot be updated via import",
   "import.status.MIGRATE_CONTENT": "Course content will be migrated to a newer major framework version",
-  "import.status.PLUGIN_INSTALL_MIGRATING": "Plugin will be migrated to a newer major version",
+  "import.status.PLUGIN_INSTALL_MIGRATING": "Plugin will be migrated to a newer version",
   "import.status.NO_CHANGE": "No change",
   "import.status.OLDER": "Import version older than server",
   "import.status.TAGS_IMPORTED": "Tags to be imported",

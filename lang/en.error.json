@@ -23,6 +23,7 @@
   "FW_IMPORT_INVALID_COURSE": "Course zip is not valid",
   "FW_IMPORT_PLUGINS_FAILED": "Import of framework plugins failed, ${errors}",
   "FW_IMPORT_UNEXPECTED_STRUCTURE": "Input course data could not be parsed into a valid course structure. Please check the imported course structure for errors.",
+  "FW_INVALID_VERSION": "Invalid version (${version}) specified for plugin ${name}",
   "GENERATE_THUMB_FAIL": "Failed to generate thumbnail, ${error}",
   "INCORRECT_PASSWORD": "Incorrect password",
   "INVALID_ASSET_URL": "Invalid asset URL provided ${url}",

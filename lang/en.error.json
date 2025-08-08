@@ -17,6 +17,7 @@
   "ENOTEMPTY": "Directory is not empty ${path}",
   "FILE_EXCEEDS_MAX_SIZE": "Uploaded file is too large. Files must be smaller than ${maxSize}.",
   "FW_CLI_BUILD_FAILED": "Failed while executing '${cmd}'\n\n${raw}\n\n${stderr}\n\n${source}",
+  "FW_CLI_UNKNOWN_CMD": "Unknown adapt-cli command '${command}'",
   "FW_IMPORT_CONTENT_FAILED": "Import of framework content failed, ${errors}",
   "FW_IMPORT_FAILED": "Import of framework course failed, ${error}",
   "FW_IMPORT_INCOMPAT": "Import framework version (${import}) is incompatible with the installed version (${installed}), and migrations are disabled.",

@@ -52,7 +52,7 @@
   "SERVER_ERROR": "An unknown server error has occurred",
   "SUPER_USER_EXISTS": "A Super User account already exists",
   "UNAUTHENTICATED": "You are not logged in",
-  "UNAUTHORISED": "You are not authorised to perform the requested action ${method} ${url}",
+  "UNAUTHORISED": "You are not authorised to perform this action",
   "UNEXPECTED_FILE_TYPES": "Received unexpected filetypes: ${invalidFiles} (${mimetypes})",
   "UNKNOWN_SCHEMA_NAME": "Couldn't determine schema name for ${_id} (${_type} ${_component})",
   "USER_REG_FAILED": "Failed to register user, ${error}",

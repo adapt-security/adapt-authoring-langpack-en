@@ -51,6 +51,7 @@
   "RESOURCE_IN_USE": "${type} is currently in use in the following courses: ${courses}",
   "SERVER_ERROR": "An unknown server error has occurred",
   "SUPER_USER_EXISTS": "A Super User account already exists",
+  "TOO_MANY_RESULTS": "Too many results were returned (${actual}), expected ${expected}",
   "UNAUTHENTICATED": "You are not logged in",
   "UNAUTHORISED": "You are not authorised to perform this action",
   "UNEXPECTED_FILE_TYPES": "Received unexpected filetypes: ${invalidFiles} (${mimetypes})",

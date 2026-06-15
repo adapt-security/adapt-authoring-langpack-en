@@ -10,6 +10,7 @@
   "CONTENTPLUGIN_IN_USE": "Plugin is used in the following courses: $map{courses:title,createdBy}",
   "CONTENTPLUGIN_INSTALL_FAILED": "Installation of plugins failed, ${errors}",
   "CONTENTPLUGIN_INVALID_ZIP": "Invalid zip file",
+  "DUPLICATE_ASSET": "An asset with identical file content already exists (${assetId})",
   "DUPL_USER": "A user already exists with the email ${email}",
   "EEXIST": "File or directory already exists ${path}",
   "ENDPOINT_NOT_FOUND": "Endpoint ${method} ${endpoint} does not exist",

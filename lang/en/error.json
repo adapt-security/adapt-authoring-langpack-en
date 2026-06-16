@@ -11,6 +11,7 @@
   "CONTENTPLUGIN_INSTALL_FAILED": "Installation of plugins failed, ${errors}",
   "CONTENTPLUGIN_INVALID_ZIP": "Invalid zip file",
   "DUPL_FRIENDLY_ID": "A content item with the ID '${_friendlyId}' already exists in this course",
+  "DUPLICATE_ASSET": "An asset with identical file content already exists (${assetId})",
   "DUPL_USER": "A user already exists with the email ${email}",
   "EEXIST": "File or directory already exists ${path}",
   "EMPTY_CONTAINERS": "The course can't be built until every page, article and block has content. The following items are empty: $map{items:title}",
